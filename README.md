@@ -6,5 +6,5 @@ Set up your environment
 https://www.obeythetestinggoat.com/book/pre-requisite-installations.html
 
 ### Problem 2
-Get as far through Part 1 as you can
+Work through Chapter 3 starting here:
 https://www.obeythetestinggoat.com/book/part1.harry.html
