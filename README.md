@@ -12,6 +12,7 @@ Refactor your bookstore system. It should still allow a user to manage an invent
 ### Requirements 
 - If a book in the current transaction is on the customer's wishlist, it should be removed from the wishlist after the transaction is completed.
 - Books in the current transaction should be removed from inventory after the transaction is completed.
+- The bookstore should maintain a history of transactions.
 - Include unit and integration tests.
 - In addition to your code, include a screenshot of the coverage report after using the `Coverage.py` package.
   - https://coverage.readthedocs.io/en/7.4.2/  
