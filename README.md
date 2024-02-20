@@ -10,7 +10,6 @@ The goal of this project is to:
 Refactor your bookstore system. It should still allow a user to manage an inventory of books and customers' book wishlists, with the added functionality of ringing customer up. 
 
 ### Requirements 
-- A user should be able to check on whether books on the customer's wishlist are in the inventory.
 - If a book in the current transaction is on the customer's wishlist, it should be removed from the wishlist after the transaction is completed.
 - Books in the current transaction should be removed from inventory after the transaction is completed.
 - Include unit and integration tests.
